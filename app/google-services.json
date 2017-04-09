@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "865112815231",
+    "project_id": "spartan-network-153712"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865112815231:android:ed5d8107f6f965b7",
+        "android_client_info": {
+          "package_name": "com.example.dongvan.lazada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865112815231-qigpgegv8fv6snkmo1jj1p2ui8enljsk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "865112815231-got4idaiqdh3mk3siaaterakiej4fi29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dongvan.lazada",
+            "certificate_hash": "b95b092e1db5bdb251849895df103f97d8aeacdc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBH34F-u20KikBnYiWpUHk65wU_BjUgFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
